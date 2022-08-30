@@ -23,7 +23,7 @@
 - An instant computing infrastructure, that can be provisoned and managed over the internet.
 - Resources Include: Data Storage, Virtualization, Servers & Networking.
 - Used by sysadmins.
-- Ex: Amazon EC2, GoGrid, Rackspace.com.
+- Ex: Amazon EC2, GoGrid, and Rackspace.com.
 
 #### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
 > Quote
