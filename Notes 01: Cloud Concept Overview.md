@@ -1,6 +1,6 @@
 # Notes 01: Cloud Concept Overview
-
 ### 1. Summarize a few key points made in the readings or videos.
+- A cloud refers to a distinct IT environment that is designed for the purpose of remotely provisioning scalable and measured IT resources. 
 ##### Business drivers of cloud computing include... 
 1. **Capacity Planning**
 - Planning for determination and furfillment of an organization's future IT demands, resources products/services made easier.
