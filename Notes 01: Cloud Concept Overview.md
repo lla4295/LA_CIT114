@@ -13,11 +13,11 @@
 - Allows users to connect & use cloud-based apps over the internet.
 - Resources Include: Application Software.
 - Used by end users/customers.
-3. **PAAS (Platform as a Service)**
+2. **PAAS (Platform as a Service)**
 - A development/deployment environment in the cloud.
 - Resources Include: Programming Language Execution Environment, An Operating System, A Web Server, and a Database.
 - Used by developers.
-5. **IAAS (Infrastructure as a Service)**
+3. **IAAS (Infrastructure as a Service)**
 - An instant computing infrastructure, that can be provisoned and managed over the internet.
 - Resources Include: Data Storage, Virtualization, Servers & Networking.
 - Used by sysadmins.
