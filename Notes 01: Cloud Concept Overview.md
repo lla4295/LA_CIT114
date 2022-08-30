@@ -13,14 +13,17 @@
 - Allows users to connect & use cloud-based apps over the internet.
 - Resources Include: Application Software.
 - Used by end users/customers.
+- Ex: Gmail, Google Docs, Google Drive, Office 365, HR/Helpdesk Solutions, and Salesforce.
 2. **PAAS (Platform as a Service)**
 - A development/deployment environment in the cloud.
 - Resources Include: Programming Language Execution Environment, An Operating System, A Web Server, and a Database.
 - Used by developers.
+- Ex: AWS Elastic Beanstalk, Google App Engine, Windows Azure, Heroku, and Force.com.
 3. **IAAS (Infrastructure as a Service)**
 - An instant computing infrastructure, that can be provisoned and managed over the internet.
 - Resources Include: Data Storage, Virtualization, Servers & Networking.
 - Used by sysadmins.
+- Ex: Amazon EC2, GoGrid, Rackspace.com.
 
 #### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
 > Quote
