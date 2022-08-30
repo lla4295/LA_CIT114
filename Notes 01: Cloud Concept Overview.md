@@ -6,13 +6,13 @@
 - Cost Reduction (cost of buying infrastructure & maintaining it is cheaper).
 - Organizational Agility (businesses/organizations can adapt to change easily).
 ##### Cloud computing models include...
-- SAAS (Software as a Service) 
-- PAAS (Platform as a Service)
-- IAAS (Infrastructure as a Service)
+- SAAS (Software as a Service) - Typically used by end customers
+- PAAS (Platform as a Service) - Typically used by developers
+- IAAS (Infrastructure as a Service) - Typically used by sysadmins
 
 #### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
 > Quote
-> Quote
+> 
 #### 3. Outline the new facts that you learned from this section?
 
 #### 4. What questions remain in your mind after reading this section?
