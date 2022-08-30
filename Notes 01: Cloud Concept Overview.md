@@ -9,7 +9,7 @@
 - SAAS (Software as a Service) - Allows users to connect & use cloud-based apps over the internet -- Used by end users/customers
 -- Resources Include: Application Software.
 - PAAS (Platform as a Service) - A development/deployment environment in the cloud -- Used by developers
-c -- Resources Include: Programming Language Execution Environment, An Operating System, A Web Server, and a Database.
+c Resources Include: Programming Language Execution Environment, An Operating System, A Web Server, and a Database.
 - IAAS (Infrastructure as a Service) - An instant computing infrastructure, that can be provisoned and managed over the internet.  -- Used by sysadmins
 c -- Resources Include: Data Storage, Virtualization, Servers & Networking.
 
