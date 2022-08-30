@@ -2,7 +2,7 @@
 
 ### 1. Summarize a few key points made in the readings or videos.
 ##### Business drivers of cloud computing include... 
--asterisk Capacity Planning (easier planning for determination and furfillment of an organization's future IT demands, resources products/services).
+asterisk Capacity Planning (easier planning for determination and furfillment of an organization's future IT demands, resources products/services).
 - Cost Reduction (cost of buying infrastructure & maintaining it is cheaper).
 - Organizational Agility (businesses/organizations can adapt to change easily).
 ##### Cloud computing models include...
