@@ -1,7 +1,7 @@
 # Notes 01: Cloud Concept Overview
 
 #### 1. Summarize a few key points made in the readings or videos.
-- Business drivers of cloud computing include 
+## Business drivers of cloud computing include 
 - Capacity Planning (easier planning for determination and furfillment of an organization's future IT demands, resources products/services w/ cloud computing).
 - Cost Reduction (cost of buying infrastructure & maintaining it is cheaper w/ cloud computing).
 - Organizational Agility (businesses/organizations can adapt to change easily w/ cloud computing).
