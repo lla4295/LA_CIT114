@@ -10,8 +10,8 @@
 - Businesses/organizations can adapt to change easier.
 ##### Cloud computing models include...
 1. **SAAS (Software as a Service)**
-- Resources Include: Application Software.
 - Allows users to connect & use cloud-based apps over the internet.
+- Resources Include: Application Software.
 - Used by end users/customers.
 3. **PAAS (Platform as a Service)**
 - A development/deployment environment in the cloud.
