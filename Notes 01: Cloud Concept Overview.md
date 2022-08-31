@@ -27,10 +27,11 @@
 
 #### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
 > Cloud computing is a specialized form of distributed computing that introduces utilization models for remotely provisioning scalable and measured resources.
-> - Forrester Research (2.1)
+> - Forrester Research - (2.1 A Brief History)
 - I found this quote interesting because it gave a concise definition of cloud computing & defines what it does for companies. This quote makes me curious about what utilization models it introduces.
-> It can be difﬁcult to establish a security architecture that spans such a trust boundary without introducing vulnerabilities, unless cloud consumers and cloud providers happen to support the same or compatible security frameworks - which is unlikely with public clouds. (2.5 Risks and Challenges)
-> - I found this quote interesting because it states that security increased security vulnerabilities is a disadvantage of cloud computing. This makes me curious about cloud security.
+> It can be difﬁcult to establish a security architecture that spans such a trust boundary without introducing vulnerabilities, unless cloud consumers and cloud providers happen to support the same or compatible security frameworks - which is unlikely with public clouds. 
+> (2.5 Risks and Challenges)
+- I found this quote interesting because it states that security increased security vulnerabilities is a disadvantage of cloud computing. This makes me curious about cloud security.
 #### 3. Outline the new facts that you learned from this section?
 - Learned the definition of the "cloud".
 - Learned the 3 busineses drivers of cloud computing.
