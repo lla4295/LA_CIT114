@@ -38,4 +38,4 @@
 - Learned about the 3 cloud computing models, what they stand for, and what they do/provide for specific groups of people.
 #### 4. What questions remain in your mind after reading this section?
 - What are some careers in cloud computing?
-- What are the costs of cloud computing vs on-premise in an organization/company?
+- What are the costs of cloud-based vs on-premise in an organization/company?
