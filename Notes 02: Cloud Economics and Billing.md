@@ -26,7 +26,9 @@
 - AWS has different support plans that provide customer service benefits at different costs.
 #### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
 > "Amazon IT offers lots of training possibilities, we offer local trainings, online trainings, and they also offer career choice for technicians."
-> Rene Sahrbacher - IT Manager @ Amazon 4.09 [IT Infrastructure at an Amazon Fulfillment Center (Video)]
+> Rene Sahrbacher - IT Manager @ Amazon - 4.09 [IT Infrastructure at an Amazon Fulfillment Center (Video)]
+- I found this quote in the video interesting because I want to work in the IT field in the future and it is good to know that Amazon provides opportunities for training, learning, employment, promotions.
+> "
 #### 3. Outline the new facts that you learned from this section?
 - Learned about the AWS payment models which are on-demand, pay-as-you-go, and reservation based.
 - Learned about AWS reserved capacity/instance types and how much you save using each.
