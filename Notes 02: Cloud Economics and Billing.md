@@ -28,7 +28,9 @@
 > "Amazon IT offers lots of training possibilities, we offer local trainings, online trainings, and they also offer career choice for technicians."
 > Rene Sahrbacher - IT Manager @ Amazon - 4.09 [IT Infrastructure at an Amazon Fulfillment Center (Video)]
 - I found this quote in the video interesting because I want to work in the IT field in the future and it is good to know that Amazon provides opportunities for training, learning, employment, promotions.
-> "
+> "So many companies look to a cloud services provider like Google Cloud."
+> Google Cloud Tech - [4.08 Google Data Center Tour (Video)]
+- I found this quote in the video interesting because I didn't know that Google was a cloud services provider, I didn't know this because I thought AWS was the only one because it is the largest company in the cloud computing market.
 #### 3. Outline the new facts that you learned from this section?
 - Learned about the AWS payment models which are on-demand, pay-as-you-go, and reservation based.
 - Learned about AWS reserved capacity/instance types and how much you save using each.
