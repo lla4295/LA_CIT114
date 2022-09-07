@@ -25,7 +25,8 @@
 - AWS has budgets and cost/usage reporting to help you keep track of your billing.
 - AWS has different support plans that provide customer service benefits at different costs.
 #### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
-> "Hello"
+> "Amazon IT offers lots of training possibilities, we offer local trainings, online trainings, and they also offer career choice for technicians."
+> Rene Sahrbacher - IT Manager @ Amazon 4.09 [IT Infrastructure at an Amazon Fulfillment Center (Video)]
 #### 3. Outline the new facts that you learned from this section?
 - Learned about the AWS payment models which are on-demand, pay-as-you-go, and reservation based.
 - Learned about AWS reserved capacity/instance types and how much you save using each.
@@ -35,4 +36,4 @@
 - Learned about TCO and budget/billing cost/usage reports.
 #### 4. What questions remain in your mind after reading this section?
 - Exactly how much cheaper is cloud infrastructure than traditional infrastructure? Is it worth the transition, what type of compnaies benefit the most?
-- Is AWS popular or commonly used amongst big businesses such as Apple, Google, etc.?
+- Will on-premise IT infrastructure be replaced by cloud-computing in the future?
