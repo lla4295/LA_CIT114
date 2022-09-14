@@ -1,5 +1,5 @@
 # Notes 03: Cloud Global Infrastructure
-#### 1. Summarize a few key points made in the readings or videos.
+### 1. Summarize a few key points made in the readings or videos.
 - AWS has infrastructure all over the world; this allows you to go global in minutes.
 - AWS regions are seperate geographic area that AWS uses to house its infrastructure. (Distributed around the world so customers can choose closest location.)
 - AWS availability zones are building blocks that make up AWS regions. (AZ's are isolated data center locations within a region.)
