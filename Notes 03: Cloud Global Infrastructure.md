@@ -9,7 +9,7 @@
 - AWS regions include: North America, South America, Europe, Middle East, Africa, Asia Pacific, and Australia.
 - Points of presence consists of data centers close to Edge Locations and Regional Edge Cache servers.
 - AWS Local Zone places data centers close to large population, industry, and IT centers.
-## Factors to consider when choosing AWS region (Best for workload)
+#### Factors to consider when choosing AWS region (Best for workload)
 - Supported AWS services - Some AWS services are not available in all regions.
 - Cost - Differs based on region.
 - Latency - Should be blazing fast, should be picked based on target audience location.
