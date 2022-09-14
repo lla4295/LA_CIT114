@@ -17,7 +17,7 @@
 - Service Level Agreements - Not all AWS services warrant the same SLA.
 - AWS foundational services include compute, storage, databases, and networking.
 - *# of Edge Locations > # of Availability Zones > # of Regions*
-#### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
+### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
 > "Amazon Web Services is powered by Data Centers like the one I showed here.  Each Availability Zone is the result of a massive Data Center.  Aren't we glad we didn't have to worry about any of these details..." (5.08 Data Center Concepts)
 - I found this quote in the reading interesting because it showed, explained the scale of data centers and stated that it is an advantage of cloud computing. This made me think about how revolutionary/efficient cloud computing really is for organizations.
 > "Of all the employees at Google, a very, very small percentage of those employees are authorised to even enter a data centre campus." 
