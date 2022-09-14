@@ -21,7 +21,7 @@
 > "Amazon Web Services is powered by Data Centers like the one I showed here.  Each Availability Zone is the result of a massive Data Center.  Aren't we glad we didn't have to worry about any of these details..." (5.08 Data Center Concepts)
 - I found this quote in the reading interesting because it showed, explained the scale of data centers and stated that it is an advantage of cloud computing. This made me think about how revolutionary/efficient cloud computing really is for organizations.
 > "Of all the employees at Google, a very, very small percentage of those employees are authorised to even enter a data centre campus." 
-- Joe Kava (VP of Data Centers @ Google) - 5.09 "Inside a Google data center"
+> Joe Kava (VP of Data Centers @ Google) - 5.09 "Inside a Google data center"
 - I found this quote in the video interesting because it shows the level of security data centers have. The amount of security measures and restrictions Google implements for their employees and regular people is just insane.
 
 #### 3. Outline the new facts that you learned from this section?
