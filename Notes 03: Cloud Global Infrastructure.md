@@ -24,11 +24,11 @@
 > Joe Kava (VP of Data Centers @ Google) - 5.09 "Inside a Google data center"
 - I found this quote in the video interesting because it shows the level of security data centers have. The amount of security measures and restrictions Google implements for their employees and regular people is just insane.
 
-#### 3. Outline the new facts that you learned from this section?
+### 3. Outline the new facts that you learned from this section?
 - Learned about AWS global infrastructure.
 - Learned about AWS regions, AZ's, and Points of Presence.
 - Learned about the difference between Points of Presence & AWS local zones.
 - Learned about factors to consider when choosing AWS regions.
-#### 4. What questions remain in your mind after reading this section?
+### 4. What questions remain in your mind after reading this section?
 - What AWS regions are most popular, do their data centers ever get overloaded w/ customers?
 
