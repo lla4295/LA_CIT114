@@ -1,5 +1,5 @@
 # Notes 04: Cloud Security
-### 1. Summarize a few key points made in the readings or videos.
+## 1. Summarize a few key points made in the readings or videos.
 - Cybersecurity is the protection of all networks, devices, and data from unauthorized access/criminal use. (Ensuring info confidentiality, integrity, and availability.)
 - Poor cybersecurity results in multiple risks such as data erasure, altering of files, computer attacks, stolen credit card information from malware/hackers.
 #### Ways to improve cyber security
@@ -65,13 +65,13 @@
 - I found this quote interesting because it puts an emphasis on securing code as it is built rather than fixing it after it is made, I think this development mindset
 ,DevSecOps is very smart.
 
-### 3. Outline the new facts that you learned from this section?
+## 3. Outline the new facts that you learned from this section?
 - Learned what cybersecurity was.
 - Learned ways to improve cybersecurity.
 - Learned about AWS and customer security responsibilites. (Security and Compliance Model)
 - Learned about IAM management, essentials, and ways to use it.
 - Learned about applications for securing accounts, data, and compliance.
 
-### 4. What questions remain in your mind after reading this section?
+## 4. What questions remain in your mind after reading this section?
 - N/A
 
