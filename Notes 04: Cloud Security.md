@@ -57,7 +57,7 @@
 ### Applications for Ensuring Compliance
 - AWS Config
 - AWS Artifact
-### 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
+## 2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
 > “Security is now in the job of informing the teams about the risks of their actions.” - (6.16 Putting the Security into DevOps - The Rise of DevSecOps)
 - I found this quote interesting because it shows that enforcing company policy and education of employees is a huge part of security. It really isn't just hacking, and securing systems.
 
